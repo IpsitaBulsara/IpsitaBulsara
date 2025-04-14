@@ -2,7 +2,7 @@
 
 🔍 **I’m passionate about** coding, **AI**, and **Machine Learning**  
 🌱 **Currently learning**: Advanced AI optimization techniques and real-world ML applications  
-💡 **Exploring**: How AI can solve real-world problems, from design optimization to emission prediction  
+💡 **Exploring**: How AI can solve real-world problems
 🚀 **Always open to collaboration** on AI-driven projects, challenges, and innovations  
 
 ---
