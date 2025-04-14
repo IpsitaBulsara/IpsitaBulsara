@@ -9,7 +9,7 @@
 
 ### 📬 **How to Reach Me**:
 - 📧 **Email**: [bulsaraipsita@gmail.com](mailto:bulsaraipsita@gmail.com)  
-- 💼 **LinkedIn**: [Ipsita Bulsara](https://www.linkedin.com/in/ipsitabulsara)
+- 💼 **LinkedIn**: [Ipsita Bulsara](https://www.linkedin.com/in/ipsita-bulsara-96a8b1266/)
 
 ---
 
