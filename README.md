@@ -18,7 +18,7 @@
 
 ---
 
-### ⚡ **Fun Fact**:
+### 🌱 **Learning Journey**:
 - I'm always eager to learn and dive into the world of coding, AI, and ML!
 
 ---
