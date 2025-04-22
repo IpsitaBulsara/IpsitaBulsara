@@ -1,6 +1,6 @@
 # 👋 Hello, I'm [@IpsitaBulsara](https://github.com/IpsitaBulsara)
 
-🎓 **Mechanical Engineer** exploring the powerful intersection of **coding**, **AI**, and **Machine Learning** with **mechanical engineeirng** 
+🎓 **Mechanical Engineer** exploring the powerful intersection of **coding**, **AI**, and **Machine Learning** with **mechanical engineeirng**   
 🌱 **Currently learning**: Advanced AI optimization techniques and real-world ML applications  
 💡 **Exploring**: How AI can solve real-world engineering problems    
 🚀 **Always open to collaboration** on AI-driven projects, challenges, and innovations  
